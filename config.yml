@@ -19,6 +19,9 @@ minify:
   disableXML: true
   # minifyOutput: true
 
+staticDir:
+- static
+
 languages:
   en:
     languageName: "English"
@@ -82,6 +85,7 @@ languages:
             url: posts
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
 
   fa:
     languagedirection: rtl
