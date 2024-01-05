@@ -19,12 +19,13 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-staticDir:
-- static
+# staticDir:
+# - static
 
 languages:
   en:
     languageName: "English"
+    staticDir: static
     weight: 1
     taxonomies:
       category: categories
