@@ -144,7 +144,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
+    Title: "Li Yuxuan's personal website"
     Content: >
       👋 Welcome to demo page of Hugo's theme PaperMod!
 
@@ -167,6 +167,9 @@ params:
     - name: KoFi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/adityatelange"
+    - name: Notion
+      title: My Chinese homepage
+      url: "https://skillful-radius-e2d.notion.site/Website-e8415ae32c0d429c9233127112aae5c6?pvs=4"  
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
