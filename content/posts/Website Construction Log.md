@@ -2,6 +2,7 @@
 title = 'Website Construction Log'
 date = 2024-01-04T17:33:02+08:00
 draft = false
+tags = ["markdown", "css", "html", "themes"]
 
 +++
 
@@ -11,5 +12,3 @@ draft = false
 * figure out how the icons of X, Github, Discard is shown automatically in the home page
 
 -What is **Social-Metadata** and **SEO**?
-
-​	

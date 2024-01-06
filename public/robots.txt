@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yu-xuanli.github.io/sitemap.xml

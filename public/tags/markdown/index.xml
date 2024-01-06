@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Li Yuxuan</title>
+    <link>https://yu-xuanli.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on Li Yuxuan</description>
+    <image>
+      <title>Li Yuxuan</title>
+      <url>https://yu-xuanli.github.io/images/papermod-cover.png</url>
+      <link>https://yu-xuanli.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jan 2024 17:33:02 +0800</lastBuildDate>
+    <atom:link href="https://yu-xuanli.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Construction Log</title>
+      <link>https://yu-xuanli.github.io/posts/website-construction-log/</link>
+      <pubDate>Thu, 04 Jan 2024 17:33:02 +0800</pubDate>
+      <guid>https://yu-xuanli.github.io/posts/website-construction-log/</guid>
+      <description>2024/01/05
+change the icon of the website. figure out how the icons of X, Github, Discard is shown automatically in the home page -What is Social-Metadata and SEO?</description>
+    </item>
+  </channel>
+</rss>

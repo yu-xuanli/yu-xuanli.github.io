@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Li Yuxuan</title>
+    <link>https://yu-xuanli.github.io/categories/</link>
+    <description>Recent content in Categories on Li Yuxuan</description>
+    <image>
+      <title>Li Yuxuan</title>
+      <url>https://yu-xuanli.github.io/images/papermod-cover.png</url>
+      <link>https://yu-xuanli.github.io/images/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://yu-xuanli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
