@@ -10,3 +10,6 @@ draft = false
 * change the icon of the website.
 * figure out how the icons of X, Github, Discard is shown automatically in the home page
 
+-What is **Social-Metadata** and **SEO**?
+
+​	
