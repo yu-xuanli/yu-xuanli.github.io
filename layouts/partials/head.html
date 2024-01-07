@@ -91,9 +91,9 @@
 
 {{- /* Favicons */}}
 <!-- <link rel="icon" href="{{ "https://yu-xuanli.github.io/favicon.ico" }}"> -->
-<link rel="icon" href="{{ "favicon.ico" }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ "https://yu-xuanli.github.io/favicon-16x16.png" }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ "https://yu-xuanli.github.io/favicon-32x32.png"  }}">
+<link rel="icon" href="{{ "favicon.ico" | absURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | absURL }}">
 <link rel="apple-touch-icon" href="{{ site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" | absURL }}">
 <link rel="mask-icon" href="{{ site.Params.assets.safari_pinned_tab | default "safari-pinned-tab.svg" | absURL }}">
 <meta name="theme-color" content="{{ site.Params.assets.theme_color | default "#2e2e33" }}">

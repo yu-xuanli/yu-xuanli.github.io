@@ -77,7 +77,7 @@ languages:
         enabled: true
         title: PaperMod
         # imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageUrl: "https://github.com/yu-xuanli/yu-xuanli.github.io/blob/master/safari-pinned-tab.svg"
+        imageUrl: "Yin_yang.svg"    # put the .svg file in the 'static' folder to change your avatar  --lyx 
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
@@ -175,7 +175,7 @@ params:
       url: "https://ko-fi.com/adityatelange"
     - name: bilibili
       title: My Chinese homepage
-      url: "https://space.bilibili.com/90343847/"  
+      url: "https://skillful-radius-e2d.notion.site/Website-e8415ae32c0d429c9233127112aae5c6?pvs=4"  
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
