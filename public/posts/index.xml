@@ -11,8 +11,28 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jan 2024 17:33:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 15:55:04 +0800</lastBuildDate>
     <atom:link href="https://yu-xuanli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRAM PIM Library</title>
+      <link>https://yu-xuanli.github.io/posts/dram-pim-library/</link>
+      <pubDate>Mon, 08 Jan 2024 15:55:04 +0800</pubDate>
+      <guid>https://yu-xuanli.github.io/posts/dram-pim-library/</guid>
+      <description>DRAM-PIM-Library Conference ISCA&#39;23 Accelerating Personalized Recommendation with Cross-level Near-Memory Processing FDMAX: An Elastic Accelerator Architecture for Solving Partial Differential Equations MetaNMP: Leveraging Cartesian-Like Product to Accelerate HGNNs with Near-Memory Processing RAELLA: Reforming the Arithmetic for Efficient, Low-Resolution, and Low-Loss Analog PIM: No Retraining Required! MICRO&#39;23 Affinity Alloc: Taming Not-So Near-Data Computing Swordfish: A Framework for EvaluatingDeep Neural Network-based Basecallingusing Computation-In-Memory with Non-Ideal Memristors AESPA: Asynchronous Execution Scheme to Exploit Bank-Level Parallelism of Processing-in-Memory MVC: Enabling Fully Coherent Multi-Data-Views through the Memory Hierarchy with Processing in Memory HPCA&#39;23 DIMM-Link: Enabling Efficient Inter-DIMM Communication for Near-Memory Processing SHADOW: Preventing Row Hammer in DRAM with Intra-Subarray Row Shuffling MERCURY: Accelerating DNN Training By Exploiting Input Similarity ISSCC&#39;23 2.</description>
+    </item>
+    <item>
+      <title>Major Skills</title>
+      <link>https://yu-xuanli.github.io/posts/major-skills/</link>
+      <pubDate>Mon, 08 Jan 2024 15:39:30 +0800</pubDate>
+      <guid>https://yu-xuanli.github.io/posts/major-skills/</guid>
+      <description>Programming: C, C++(11,14 and above), CUDA, Python3, JavaScript, Java,SQL, Bash, Awk
+HDL: Verilog
+Simulators: SniperSim, GPGPUSim, Ramulator, Gem5 fullsystem simulator, Booksim network simulator, SimGrid, Pin
+EDATools: Verilator, Xilinx Vivado Design Suite, Synopsys Design Compiler, Cadence SoC Encounter
+Compiler frameworks: LLVM,GPU Ocelot, Rose compiler (frontend)
+Web Development: React, Bulma, Firebase, AWS(EC2, S3, lambda), RDBMS, Memcached, node.js
+Operating Systems: Linux (CentOS, Ubuntu), Windows, Mac</description>
+    </item>
     <item>
       <title>Website Construction Log</title>
       <link>https://yu-xuanli.github.io/posts/website-construction-log/</link>

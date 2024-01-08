@@ -10,7 +10,7 @@ draft = false
 
 **Simulators**: SniperSim, GPGPUSim, Ramulator, Gem5 fullsystem simulator, Booksim network simulator, SimGrid, Pin
 
-**EDATools**: Verilator, Xilinx Vivado Design Suite, ynopsys Design Compiler, Cadence SoC Encounter
+**EDATools**: Verilator, Xilinx Vivado Design Suite, Synopsys Design Compiler, Cadence SoC Encounter
 
 **Compiler frameworks**: LLVM,GPU Ocelot, Rose compiler (frontend)
 
