@@ -173,9 +173,9 @@ params:
     - name: notion
       title: My Chinese homepage
       url: "https://skillful-radius-e2d.notion.site/Website-e8415ae32c0d429c9233127112aae5c6?pvs=4"    
-    - name: KoFi
+    - name: cv
       title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://drive.google.com/file/d/15AOy9WEIg8zIOoTbfxD_5WuKeMX_DGY9/view?usp=drive_link"
   
 
   editPost:

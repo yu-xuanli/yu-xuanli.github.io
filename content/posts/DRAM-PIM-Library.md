@@ -2,6 +2,8 @@
 title = 'DRAM PIM Library'
 date = 2024-01-08T15:55:04+08:00
 draft = false
+tags = ["Notes","DRAM","PIM"]
+
 +++
 
 # DRAM-PIM-Library

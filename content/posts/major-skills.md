@@ -2,6 +2,7 @@
 title = 'Major Skills'
 date = 2024-01-08T15:39:30+08:00
 draft = false
+tags = ["Notes"]
 
 +++
 **Programming**: C, C++(11,14 and above), CUDA, Python3, JavaScript, Java,SQL, Bash, Awk
