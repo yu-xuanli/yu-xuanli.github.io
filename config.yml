@@ -163,18 +163,18 @@ params:
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/yu-xuanli"
     - name: X
       title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"     
+      url: "https://github.com/yu-xuanli"     
     - name: zhihu
       title: My Zhuhu homepage (my partial Chinese tech blog)
       url: "https://www.zhihu.com/people/li-li-li-47-62"
     - name: notion
-      title: My Chinese homepage
-      url: "https://skillful-radius-e2d.notion.site/Website-e8415ae32c0d429c9233127112aae5c6?pvs=4"    
+      title: Part of My Chinese homepage
+      url: "https://skillful-radius-e2d.notion.site/45b2a2ca840d477ca71e1e454b6499ed?pvs=4"    
     - name: cv
-      title: Buy me a Ko-Fi :)
+      title: My CV
       url: "https://drive.google.com/file/d/15AOy9WEIg8zIOoTbfxD_5WuKeMX_DGY9/view?usp=drive_link"
   
 
