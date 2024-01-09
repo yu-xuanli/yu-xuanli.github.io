@@ -32,6 +32,15 @@ tags = ["Notes","DRAM","PIM"]
 * **SHADOW: Preventing Row Hammer in DRAM with Intra-Subarray Row Shuffling**
 * **MERCURY: Accelerating DNN Training By Exploiting Input Similarity**
 
+### DAC'23
+
+* **Processing-In-Hierarchical-Memory Architecture for Billion-Scale Approximate Nearest Neighbor Search**
+* **NTT-PIM: Row-Centric Architecture and Mapping for Efficient Number-Theoretic Transform on PIM**
+* **MeG$^2$ : In-Memory Acceleration for Genome Graphs Analysis**
+* **HAIMA: A Hybrid SRAM and DRAM Accelerator-in-Memory Architecture for Transformer**
+* **UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification**
+* **NMExplorer: An Efficient Exploration Framework for DIMM-based Near-Memory Tensor Reduction**
+
 ### ISSCC'23
 
 * **2.7 MetaVRain: A 133mW Real-Time Hyper-Realistic 3D-NeRF Processor with 1D-2D Hybrid-Neural Engines for Metaverse on Mobile Devices**
