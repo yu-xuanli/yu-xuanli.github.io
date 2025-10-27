@@ -49,12 +49,15 @@ languages:
           weight: 10
         - name: Categories
           url: categories/  
-          weight: 10
+          weight: 10        
+        - name: About
+          url: about/
+          weight: 15
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
   zh:
-    languageName: "简体中文"
+    languageName: "中文"
     weight: 2
     title: "十二楼" 
     taxonomies:
@@ -91,6 +94,8 @@ languages:
         buttons:
           - name: Blog
             url: posts
+          - name: 关于我
+            url: /zh/about/
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
