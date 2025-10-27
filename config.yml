@@ -1,8 +1,13 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+
+# 待完成：法语波斯语改成中文、日语、韩语
+# 增加category、series菜单项
+# 增加多语言切换按钮
+
 baseURL: "https://yu-xuanli.github.io/"
 title: Li Yuxuan
-paginate: 5
+paginate: 5  # number of posts per page
 theme: [PaperMod]
 
 enableInlineShortcodes: true
