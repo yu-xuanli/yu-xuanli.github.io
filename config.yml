@@ -53,30 +53,28 @@ languages:
         - name: WiKi
           url: https://github.com/adityatelange/hugo-PaperMod/wiki/
 
-  fr:
-    languageName: ":fr:"
+  zh:
+    languageName: "简体中文"
     weight: 2
-    title: PaperModL2
+    title: "十二楼" 
     taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
-        - name: Archive
+        - name: 归档
           url: archives/
           weight: 5
-        - name: FRTags
-          url: frtags
+        - name: 搜索
+          url: search/
           weight: 10
-        - name: FRCategories
-          url: frcategories
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
-        - name: NullLink
-          url: "#"
+        - name: 标签
+          url: tags/
+          weight: 11
+        - name: 分类
+          url: categories/
+          weight: 12
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -89,7 +87,7 @@ languages:
         imageTitle: ProfileMode image
         # imageWidth: 120
         # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        subtitle: "忆得少年多乐事 夜深灯火上樊楼"
         buttons:
           - name: Blog
             url: posts
@@ -97,24 +95,72 @@ languages:
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
 
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
+  ja:
+    languageName: "日本語"           # 在语言切换器中显示“日本語”
+    weight: 3                        # 排序位置，越小越靠前
+    title: "三日坊主のホームページ"
     taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
+      category: JAcategories
+      tag: JAtags
+      series: JAseries
+    # メニュー設定
     menu:
       main:
-        - name: FATags
-          url: fatags
+        - name: アーカイブ           # “归档”
+          url: archives/
+          weight: 5
+        - name: タグ                 # “标签”
+          url: jatags
           weight: 10
+        - name: カテゴリ             # “分类”
+          url: jacategories
+          weight: 11
+        - name: シリーズ             # “系列”
+          url: jaseries
+          weight: 12
+        - name: 外部リンク
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
       homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
+        Title: "こんにちは 👋"
+        Content: ようこそ 🌸
+
+  ko:
+    languageName: "한국어"            # 在语言切换器中显示的名字（韩国语）
+    weight: 4                        # 排序顺序，数字越小越靠前
+    title: "PaperMod 한국어 버전"     # 页面标题栏显示的文字
+
+    # Taxonomy 설정 (분류 시스템)
+    taxonomies:
+      category: KOcategories
+      tag: KOtags
+      series: KOseries
+
+    # 메뉴 설정
+    menu:
+      main:
+        - name: 아카이브              # Archive（归档）
+          url: archives/
+          weight: 5
+        - name: 태그                  # Tags（标签）
+          url: kotags
+          weight: 10
+        - name: 카테고리              # Categories（分类）
+          url: kocategories
+          weight: 11
+        - name: 시리즈                # Series（系列）
+          url: koseries
+          weight: 12
+        - name: 외부 링크             # 外部链接（例如主题文档）
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+
+    # 각 언어별 PaperMod 전용 파라미터
+    params:
+      languageAltTitle: Korean        # 英文备用标题
+      homeInfoParams:                 # 홈 정보 모드 (Home Info Mode)
+        Title: "안녕하세요 👋"            # 顶部标题
+        Content: "PaperMod 테마의 한국어 레이아웃에 오신 것을 환영합니다!"  # 欢迎语
 
 outputs:
   home:
