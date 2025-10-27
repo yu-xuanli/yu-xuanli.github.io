@@ -61,9 +61,9 @@ languages:
     weight: 2
     title: "十二楼" 
     taxonomies:
-      category: categories
-      tag: tags
-      series: series
+      category: zhcategories
+      tag: zhtags
+      series: zhseries
     menu:
       main:
         - name: 归档
@@ -73,7 +73,7 @@ languages:
           url: search/
           weight: 10
         - name: 标签
-          url: tags/
+          url: zhtags/
           weight: 11
         - name: 分类
           url: categories/
